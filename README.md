@@ -1,5 +1,5 @@
 # Demo
-![Demo]('./demo.gif)
+![Demo](./demo.gif)
 
 # Simple React Router Demo App
 - Basic usage of the react router
